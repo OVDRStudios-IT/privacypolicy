@@ -5,12 +5,15 @@ body {
     list-style: none;
     font-family: "Dosis";
 }
+
+ul {
+  list-style: none;
+}
     
 h1 {
 color: black;
 font-size: 30px;
-font-weight: 700;
-list-style: none;    
+font-weight: 700;  
 line-height: 2;
 }
 
@@ -18,7 +21,6 @@ h2 {
 color: black;
 font-size: 25px;
 font-weight: 700;
-list-style: none;
 line-height: 1.8;
 }
 
@@ -32,7 +34,6 @@ line-height: 2.3;
 
 p {
 color: black;
-list-style: none;
 font-size: 20px;
 font-weight: 500;
 line-height: 1.8;
