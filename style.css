@@ -3,8 +3,6 @@ body {
     background: white;
     text-align: center;
     list-style: none;
-    margin-right: 150px;
-    margin-left: 80px;
     font-family: "Dosis";
 }
 
@@ -36,6 +34,8 @@ line-height: 2.3;
 
 p {
 color: black;
+margin-right: 80px;
+margin-left: 80px;
 font-size: 20px;
 font-weight: 500;
 line-height: 1.8;
